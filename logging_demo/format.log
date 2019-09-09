@@ -1,0 +1,11 @@
+root DEBUG: 2019-09-04 16:24:40,334: debug text
+root INFO: 2019-09-04 16:24:40,335: info text
+root WARNING: 2019-09-04 16:24:40,335: warning text
+root ERROR: 2019-09-04 16:24:40,335: error text
+root CRITICAL: 2019-09-04 16:24:40,335: critical text
+
+root DEBUG: 2019-09-04 16:25:57 PM: debug text
+root INFO: 2019-09-04 16:25:57 PM: info text
+root WARNING: 2019-09-04 16:25:57 PM: warning text
+root ERROR: 2019-09-04 16:25:57 PM: error text
+root CRITICAL: 2019-09-04 16:25:57 PM: critical text

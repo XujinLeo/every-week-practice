@@ -1,0 +1,5 @@
+2019-09-04 19:14:37 PM: file_handle: DEBUG: debug text
+2019-09-04 19:14:37 PM: file_handle: INFO: info text
+2019-09-04 19:14:37 PM: file_handle: WARNING: warning text
+2019-09-04 19:14:37 PM: file_handle: ERROR: error text
+2019-09-04 19:14:37 PM: file_handle: CRITICAL: critical text

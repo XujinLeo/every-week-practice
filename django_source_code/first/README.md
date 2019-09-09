@@ -26,6 +26,8 @@ def main():
 ```
 
 首先使用了os模块设置了环境变量。
-* os.environ.setdefault(key,value):首先我们可以简单的理解为os.environ就是一个字典，而这个方法就是如果key不存在os.environ中，anemia就新建一个key这个键，并且值为value，如果存在，什么都不做，返货当前key的值。所以这句代码的意思就是设置`DJANGO_SETTINGS_MODULE`这个环境变量，值为`<当前项目名称.settings>`
+* os.environ.setdefault(key,value):首先我们可以简单的理解为os.environ就是一个字典，而这个方法就是如果key不存在os.environ中，anemia就新建一个key这个键，并且值为value，如果存在，什么都不做，返回当前key的值。所以这句代码的意思就是设置`DJANGO_SETTINGS_MODULE`这个环境变量，值为`<当前项目名称.settings>`
 
 接下来就是尝试从django.core.management中导入execute_from_command_line这个函数。如果导入失败，就抛出ImportError这样一个异常。并且给出提示信息，
+
+ArgumentParser.parse_known_args()和parse_args函数效果一样，只是parse_known_args接收多余的参数并不会报错，而是直接返回一个列表。也就是这个函数会返回一个Namespace对象和列表。

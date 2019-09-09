@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29553db6-702e-4e86-8f02-4555e2007710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django_source_code/first/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_argparse/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_argparse/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_argparse/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_argparse/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_argparse/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_argparse/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging_demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging_demo/logging_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/captcha_project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_source_code/first/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/django_source_code/first/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,114 +16,111 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/every_week_practice$demo.coverage" NAME="demo Coverage Results" MODIFIED="1567503843496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_argparse" />
+    <SUITE FILE_PATH="coverage/every_week_practice$logging_demo.coverage" NAME="logging_demo Coverage Results" MODIFIED="1568030293049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging_demo" />
+    <SUITE FILE_PATH="coverage/every_week_practice$temp.coverage" NAME="temp Coverage Results" MODIFIED="1567505437849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-172542612">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="5" />
-          <entry key="py" value="6" />
+          <entry key="log" value="5" />
+          <entry key="md" value="15" />
+          <entry key="py" value="13" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="5" />
-          <entry key="Python" value="6" />
+          <entry key="Markdown" value="15" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="13" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1000" />
-          <entry key="py" value="4499" />
+          <entry key="log" value="1" />
+          <entry key="md" value="7301" />
+          <entry key="py" value="7808" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="997" />
-          <entry key="Python" value="4502" />
+          <entry key="Markdown" value="7248" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="7861" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/django_source_code/first/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="FIRST">
-                  <first_editor relative-caret-position="729">
-                    <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/python_argparse/demo.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-3922">
-                  <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-                  <folding>
-                    <marker date="1567503842890" expanded="true" signature="502:507" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="809:814" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="1618:1623" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="1915:1920" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="2554:2559" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="2554:6776" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="3915:3920" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="5584:5635" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="6125:6130" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="6347:6352" ph="..." />
-                    <marker date="1567503842890" expanded="true" signature="6347:6776" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/python_argparse/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="FIRST">
-                  <first_editor relative-caret-position="100">
-                    <caret line="105" column="9" lean-forward="true" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/python_argparse/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="FIRST">
-                  <first_editor relative-caret-position="478">
-                    <caret line="431" lean-forward="true" selection-start-line="431" selection-end-line="431" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logging_demo/logging_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1568030506980" expanded="true" signature="1769:2042" ph="..." />
+                <marker date="1568030506980" expanded="true" signature="2385:2390" ph="..." />
+                <marker date="1568030506980" expanded="true" signature="3926:4054" ph="..." />
+                <marker date="1568030506980" expanded="true" signature="4072:4397" ph="..." />
+                <marker date="1568030506980" expanded="true" signature="6557:9346" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logging_demo/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="478">
+                <caret line="515" lean-forward="true" selection-start-line="515" selection-end-line="515" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/logging/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1456">
+              <caret line="1149" column="10" lean-forward="true" selection-start-line="1149" selection-start-column="10" selection-end-line="1149" selection-end-column="10" />
+              <folding>
+                <element signature="e#1189#1260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/logging/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-24455">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="e#1282#1294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -141,9 +135,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django_source_code/first/README.md" />
         <option value="$PROJECT_DIR$/python_argparse/demo.py" />
         <option value="$PROJECT_DIR$/python_argparse/README.md" />
+        <option value="$PROJECT_DIR$/captcha_project/README.md" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/django_source_code/first/README.md" />
+        <option value="$PROJECT_DIR$/logging_demo/format.log" />
+        <option value="D:/新建文件夹/WeChat Files/xujin1106608757/FileStorage/File/2019-09/README(1).md" />
+        <option value="$PROJECT_DIR$/logging_demo/log.log" />
+        <option value="$PROJECT_DIR$/logging_demo/logging_demo.py" />
+        <option value="$PROJECT_DIR$/logging_demo/README.md" />
       </list>
     </option>
   </component>
@@ -153,10 +154,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -174,18 +175,12 @@
             <path>
               <item name="every-week-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="every-week-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="django_source_code" type="462c0819:PsiDirectoryNode" />
+              <item name="logging_demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="every-week-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="every-week-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="python_argparse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="every-week-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="every-week-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="python_argparse" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="solveSudoku" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +190,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitHomework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -217,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.logging_demo">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="every-week-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,8 +235,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="logging_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="every-week-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logging_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logging_demo/logging_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="every-week-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.logging_demo" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.logging_demo" />
+        <item itemvalue="Python.temp" />
         <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
@@ -263,12 +309,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.38865837" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33176944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5092199" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5744681" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,7 +323,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6814921" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2680851" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -291,6 +337,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Python/Lib/logging/__init__.py</url>
+          <line>1768</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/playing_card/README.md">
@@ -308,11 +365,7 @@
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10041">
-          <folding>
-            <element signature="e#43#202#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-10041" />
       </provider>
     </entry>
     <entry file="file://D:/Python/Lib/argparse.py">
@@ -322,11 +375,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_source_code/first/README.md">
+    <entry file="file://$PROJECT_DIR$/captcha_project/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_argparse/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="729">
-            <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <first_editor relative-caret-position="100">
+            <caret line="105" column="9" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -334,29 +397,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_argparse/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3922">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        <state relative-caret-position="61">
+          <caret line="198" column="16" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py" />
+    <entry file="file://$PROJECT_DIR$/django_source_code/first/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="235">
+            <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solveSudoku/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/新建文件夹/WeChat Files/xujin1106608757/FileStorage/File/2019-09/README(1).md" />
+    <entry file="file://$PROJECT_DIR$/logging_demo/file_handle.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logging_demo/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logging_demo/format.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logging_demo/handles.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/logging/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24455">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <marker date="1567503842890" expanded="true" signature="502:507" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="809:814" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="1618:1623" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="1915:1920" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="2554:2559" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="2554:6776" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="3915:3920" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="5584:5635" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="6125:6130" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="6347:6352" ph="..." />
-            <marker date="1567503842890" expanded="true" signature="6347:6776" ph="..." />
+            <element signature="e#1282#1294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_argparse/README.md">
+    <entry file="file://$PROJECT_DIR$/logging_demo/logging_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1568030506980" expanded="true" signature="1769:2042" ph="..." />
+            <marker date="1568030506980" expanded="true" signature="2385:2390" ph="..." />
+            <marker date="1568030506980" expanded="true" signature="3926:4054" ph="..." />
+            <marker date="1568030506980" expanded="true" signature="4072:4397" ph="..." />
+            <marker date="1568030506980" expanded="true" signature="6557:9346" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1456">
+          <caret line="1149" column="10" lean-forward="true" selection-start-line="1149" selection-start-column="10" selection-end-line="1149" selection-end-column="10" />
+          <folding>
+            <element signature="e#1189#1260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logging_demo/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="478">
-            <caret line="431" lean-forward="true" selection-start-line="431" selection-end-line="431" />
+            <caret line="515" lean-forward="true" selection-start-line="515" selection-end-line="515" />
           </first_editor>
           <second_editor />
         </state>

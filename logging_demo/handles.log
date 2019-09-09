@@ -1,0 +1,5 @@
+DEBUG:root:debug text
+INFO:root:info text
+WARNING:root:warning text
+ERROR:root:error text
+CRITICAL:root:critical text
