@@ -1,6 +1,6 @@
 # python logging模块的使用
 
-logging模块主要是方便我们用来记录日志信息的，下来将列出logging模块的使用。
+logging模块主要是方便我们用来记录日志信息的，下面将列出logging模块的使用。
 
 ### 了解logging中的等级
 |LEVEL|value|describe|
@@ -513,4 +513,3 @@ def dict_config_demo():
 1. 打印日志需要日志模型logger
 2. logger中我们可以配置handle， formatter， filter
 3. 日志的信息先后到达顺序为 filter -> handle -> formatter -> handle（先到达filter中，然后到达handle中，在handle中调用formatter，然后又回到handle中）
-
