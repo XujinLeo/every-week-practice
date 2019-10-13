@@ -3,10 +3,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 import smtplib
 
-account = '<发件人的QQ>@qq.com'
+account = '1106608757@qq.com'
 auth_code = 'istvzeerhoyefehc'
 
-msg_to = '<收件人的QQ>@qq.com'
+msg_to = '1106608757@qq.com'
 
 def simple_email():
     msg = MIMEText('hello, send by python...', 'plain', 'utf-8')
@@ -25,8 +25,11 @@ def has_subject_email():
     # 收件人
     msg['To'] = msg_to
 
+    print('init')
     server = smtplib.SMTP('smtp.qq.com', 25)
+    print('login')
     server.login(account, auth_code)
+    print('send email')
     server.sendmail(account, [msg_to], msg.as_string())
     server.quit()
 
@@ -165,7 +168,7 @@ def use_MIMEImage_send_image():
     server.quit()
 
 if __name__ == '__main__':
-    use_MIMEImage_send_image()
+    has_subject_email()
 
 
 
