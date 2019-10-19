@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29553db6-702e-4e86-8f02-4555e2007710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django_source_code/first/importlib_learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_source_code/first/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_source_code/first/test/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/commands/makemigrations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/commands/migrate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/commands/runserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/commands/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkgutil_learn1/pkgutil_learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkgutil_learn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkgutil_learn/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkgutil_learn/commands/test/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_source_code/first/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/django_source_code/first/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smtp_project/smtp_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/smtp_project/smtp_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_source_code/settings_source_code/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_source_code/settings_source_code/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/commands/makemigrations.py" beforeDir="false" afterPath="$PROJECT_DIR$/pkgutil_learn/commands/makemigrations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/commands/migrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/pkgutil_learn/commands/migrate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/commands/runserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/pkgutil_learn/commands/runserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/commands/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_source_code/settings_source_code/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkgutil_learn1/pkgutil_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/pkgutil_learn/pkgutil_learn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan_game/plan_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/plan_game/plan_game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +23,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/every_week_practice$first.coverage" NAME="first Coverage Results" MODIFIED="1568884534221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
+    <SUITE FILE_PATH="coverage/every_week_practice$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1571452796300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django_source_code/settings_source_code" />
     <SUITE FILE_PATH="coverage/every_week_practice$fourth.coverage" NAME="fourth Coverage Results" MODIFIED="1568885722977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
     <SUITE FILE_PATH="coverage/every_week_practice$thrid.coverage" NAME="thrid Coverage Results" MODIFIED="1568885468108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
     <SUITE FILE_PATH="coverage/every_week_practice$temp.coverage" NAME="temp Coverage Results" MODIFIED="1567505437849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -32,6 +32,7 @@
     <SUITE FILE_PATH="coverage/every_week_practice$time_clock.coverage" NAME="time_clock Coverage Results" MODIFIED="1568886139427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
     <SUITE FILE_PATH="coverage/every_week_practice$importlib_learn.coverage" NAME="importlib_learn Coverage Results" MODIFIED="1570946294446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django_source_code/first" />
     <SUITE FILE_PATH="coverage/every_week_practice$pkgutil_learn__1_.coverage" NAME="pkgutil_learn (1) Coverage Results" MODIFIED="1570696399273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pkgutil_learn1" />
+    <SUITE FILE_PATH="coverage/every_week_practice$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1571132011970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django_source_code/settings_source_code" />
     <SUITE FILE_PATH="coverage/every_week_practice$demo.coverage" NAME="demo Coverage Results" MODIFIED="1567503843496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_argparse" />
     <SUITE FILE_PATH="coverage/every_week_practice$fith.coverage" NAME="fith Coverage Results" MODIFIED="1568886145747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
     <SUITE FILE_PATH="coverage/every_week_practice$cmd_color.coverage" NAME="cmd_color Coverage Results" MODIFIED="1568184250419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ls_command" />
@@ -39,64 +40,80 @@
     <SUITE FILE_PATH="coverage/every_week_practice$.coverage" NAME="动画 Coverage Results" MODIFIED="1568966827775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
     <SUITE FILE_PATH="coverage/every_week_practice$pkgutil_learn.coverage" NAME="pkgutil_learn Coverage Results" MODIFIED="1570695320809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pkgutil_learn" />
     <SUITE FILE_PATH="coverage/every_week_practice$smtp_project.coverage" NAME="smtp_project Coverage Results" MODIFIED="1569304390622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smtp_project" />
+    <SUITE FILE_PATH="coverage/every_week_practice$plan_game.coverage" NAME="plan_game Coverage Results" MODIFIED="1571117379696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plan_game" />
     <SUITE FILE_PATH="coverage/every_week_practice$second.coverage" NAME="second Coverage Results" MODIFIED="1568884636374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame_learn" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-172542612">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.32" value="3" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.53" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="exe" value="1" />
           <entry key="log" value="5" />
-          <entry key="md" value="21" />
+          <entry key="md" value="22" />
           <entry key="png" value="1" />
-          <entry key="py" value="55" />
-          <entry key="pyi" value="1" />
+          <entry key="py" value="64" />
+          <entry key="pyi" value="2" />
           <entry key="temp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="21" />
+          <entry key="Markdown" value="22" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="55" />
-          <entry key="PythonStub" value="1" />
+          <entry key="Python" value="64" />
+          <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="log" value="1" />
-          <entry key="md" value="24385" />
-          <entry key="py" value="14210" />
+          <entry key="md" value="32602" />
+          <entry key="py" value="14753" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="24067" />
+          <entry key="Markdown" value="32232" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="14528" />
+          <entry key="Python" value="15123" />
         </counts>
       </usages-collector>
     </session>
@@ -104,11 +121,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/django_source_code/first/README.md">
+        <entry file="file://$PROJECT_DIR$/django_source_code/settings_source_code/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="424">
-                <caret line="756" lean-forward="true" selection-start-line="756" selection-end-line="756" />
+              <first_editor relative-caret-position="216">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,22 +133,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django_source_code/first/importlib_learn.py">
+        <entry file="file://$PROJECT_DIR$/django_source_code/settings_source_code/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="119">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <marker date="1571452794379" expanded="true" signature="61:66" ph="..." />
+                <marker date="1571452794379" expanded="true" signature="85:368" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django_source_code/first/test/a.py">
+        <entry file="file://$PROJECT_DIR$/django_source_code/settings_source_code/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-              <folding>
-                <marker date="1570793470127" expanded="true" signature="8:13" ph="..." />
-              </folding>
+            <state relative-caret-position="81">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -144,6 +162,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>popul</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -182,6 +205,11 @@
         <option value="$PROJECT_DIR$/django_source_code/first/test/a.py" />
         <option value="$PROJECT_DIR$/django_source_code/first/importlib_learn.py" />
         <option value="$PROJECT_DIR$/django_source_code/first/README.md" />
+        <option value="$PROJECT_DIR$/class/the_firsy.py" />
+        <option value="$PROJECT_DIR$/plan_game/plan_game.py" />
+        <option value="$PROJECT_DIR$/django_source_code/settings_source_code/test2.py" />
+        <option value="$PROJECT_DIR$/django_source_code/settings_source_code/test1.py" />
+        <option value="$PROJECT_DIR$/django_source_code/settings_source_code/README.md" />
       </list>
     </option>
   </component>
@@ -192,8 +220,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="853" />
-    <option name="y" value="91" />
+    <option name="x" value="115" />
+    <option name="y" value="-12" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -202,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,24 +247,12 @@
               <item name="every-week-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="every-week-practice" type="462c0819:PsiDirectoryNode" />
               <item name="django_source_code" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="every-week-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="every-week-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="django_source_code" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="every-week-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="settings_source_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +260,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -263,29 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.importlib_learn">
-    <configuration name="动画" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="every-week-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_learn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_learn/动画.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test1">
     <configuration name="importlib_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="every-week-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pkgutil_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plan_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="every-week-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,12 +333,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pkgutil_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plan_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pkgutil_learn/pkgutil_learn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plan_game/plan_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smtp_project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="every-week-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,12 +355,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/smtp_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django_source_code/settings_source_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smtp_project/smtp_project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django_source_code/settings_source_code/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="every-week-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django_source_code/settings_source_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django_source_code/settings_source_code/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +392,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.动画" />
-      <item itemvalue="Python.smtp_project" />
-      <item itemvalue="Python.pkgutil_learn" />
       <item itemvalue="Python.pkgutil_learn (1)" />
       <item itemvalue="Python.importlib_learn" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.plan_game" />
+      <item itemvalue="Python.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.plan_game" />
         <item itemvalue="Python.importlib_learn" />
         <item itemvalue="Python.pkgutil_learn (1)" />
-        <item itemvalue="Python.pkgutil_learn" />
-        <item itemvalue="Python.smtp_project" />
-        <item itemvalue="Python.动画" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +434,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19571045" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21447721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5347518" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27375886" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,7 +448,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998565" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.8149211" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.81418437" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -458,37 +475,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/temp.py" />
-    <entry file="file://$PROJECT_DIR$/solveSudoku/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/新建文件夹/WeChat Files/xujin1106608757/FileStorage/File/2019-09/README(1).md" />
-    <entry file="file://$PROJECT_DIR$/logging_demo/file_handle.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logging_demo/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logging_demo/format.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logging_demo/handles.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -698,7 +684,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pkgutil_learn/commands/makemigrations.py" />
-    <entry file="file://$PROJECT_DIR$/pkgutil_learn/commands/migrate.py" />
     <entry file="file://$PROJECT_DIR$/pkgutil_learn/commands/runserver.py" />
     <entry file="file://$PROJECT_DIR$/pkgutil_learn/__init__.py" />
     <entry file="file://$PROJECT_DIR$/ls_command/ls_s.py">
@@ -708,8 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pkgutil_learn/pkgutil_learn.py" />
-    <entry file="file://$PROJECT_DIR$/pkgutil_learn1/commands/migrate.py">
+    <entry file="file://$PROJECT_DIR$/pkgutil_learn/commands/migrate.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://D:/Python/Lib/argparse.py">
@@ -719,10 +703,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pkgutil_learn1/pkgutil_learn.py">
+    <entry file="file://$PROJECT_DIR$/pkgutil_learn/pkgutil_learn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smtp_project/smtp_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -730,9 +721,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <marker date="1570793470127" expanded="true" signature="8:13" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plan_game/plan_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="404" column="24" selection-start-line="404" selection-start-column="24" selection-end-line="404" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -743,21 +738,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/smtp_project/smtp_project.py">
+    <entry file="file://$PROJECT_DIR$/django_source_code/first/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="168">
+            <caret line="385" column="48" selection-start-line="385" selection-start-column="48" selection-end-line="385" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="226">
+          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/the_firsy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_source_code/settings_source_code/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_source_code/settings_source_code/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1571452794379" expanded="true" signature="61:66" ph="..." />
+            <marker date="1571452794379" expanded="true" signature="85:368" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_source_code/first/README.md">
+    <entry file="file://$PROJECT_DIR$/django_source_code/settings_source_code/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="424">
-            <caret line="756" lean-forward="true" selection-start-line="756" selection-end-line="756" />
+          <first_editor relative-caret-position="216">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>

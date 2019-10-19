@@ -2,6 +2,7 @@ import pygame
 import sys
 import os
 import random
+import time
 
 # 素材文件的路径地址
 source_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'material_images')
@@ -401,6 +402,9 @@ class Game():
                     if event.key == pygame.K_SPACE:
                         # 调用plan.shut函数
                         plan.shut()
+                    if event.key == pygame.K_p:
+                        print('sleep 10')
+                        time.sleep(3)
 
             # 检测上下左右的移动案件.
             # w,a,s,d 和 上,下,左,右键都可以
